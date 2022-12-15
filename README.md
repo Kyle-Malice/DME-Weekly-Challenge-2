@@ -1,4 +1,4 @@
 # DME-Weekly-Challenge-2
-Weekly Challenge
+Weekly Challenge for DME internship
 
 A simple form page.
